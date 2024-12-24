@@ -1,3 +1,0 @@
-{"nickname":"Stariy bog","comment":"йоу!","timestamp":"2024-12-13T16:41:11.495Z"}
-{"nickname":"Шаман","comment":"Я русский. ","timestamp":"2024-12-13T16:41:26.329Z"}
-{"nickname":"Jacob Lash","comment":"Hi!","timestamp":"2024-12-13T16:43:12.847Z"}
